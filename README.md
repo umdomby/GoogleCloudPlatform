@@ -21,4 +21,11 @@ Android
 https://github.com/GoogleCloudPlatform/android-docs-samples/tree/master/speech/Speech
 
 oAuth2
+https://www.youtube.com/watch?v=8BWOnoaQ_1M
+https://console.cloud.google.com/apis/credentials?authuser=0&project=navatar-209309
+
 https://developers.google.com/identity/protocols/oauth2/native-app
+https://openid.github.io/AppAuth-Android/
+https://github.com/GoogleCloudPlatform/android-docs-samples/tree/master/speech/Speech
+
+
